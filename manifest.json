@@ -1,0 +1,14 @@
+{
+  "name": "拙玉台",
+  "short_name": "拙玉台",
+  "description": "学习、科研、健身与基金收益的个人工作台",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#302720",
+  "theme_color": "#211a16",
+  "icons": [
+    {"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
