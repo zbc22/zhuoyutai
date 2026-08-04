@@ -1,9 +1,9 @@
 {
   "name": "拙玉台",
   "short_name": "拙玉台",
-  "description": "学习、科研、健身与基金收益的个人工作台",
+  "description": "基金收益与健身记录的个人工作台",
   "id": "./index.html",
-  "start_url": "./index.html?v=20260804-4",
+  "start_url": "./index.html?v=20260804-5",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
